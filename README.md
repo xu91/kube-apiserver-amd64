@@ -1,2 +1,2 @@
 # kube-apiserver-amd64
-gcr.io/google_containers/kube-apiserver-amd64:v1.8.4
+k8s.gcr.io/kube-apiserver-amd64:v1.10.3
